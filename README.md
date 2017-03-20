@@ -1,5 +1,4 @@
 # Yobonja
-Experiments and prototypes by Tobiah Zarlez
 
 [Visit the website](http://www.Yobonja.com)
 
