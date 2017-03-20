@@ -10,7 +10,7 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: Tobiah@Yobonja.com
+email: contact@yobonja.com
 author: Tobiah Zarlez
 twitter_username: Yobonja
 github_username: Yobonja
@@ -33,9 +33,9 @@ navigation:
   - title: Projects
     url: /projects/
     desc: Yobonja Projects
-  - title: About
-    url: /about/
-    desc: Learn about Yobonja and Tobiah Zarlez
+  - title: Contact
+    url: /contact/
+    desc: Contact Us
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:

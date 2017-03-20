@@ -4,22 +4,26 @@ layout: default
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Indie Game Experiments and Prototypes
+<div class="lead lead-about">About Yobonja
 </div>
 
-Yobonja is an independent game development company created by [Tobiah Zarlez](http://www.tobiahz.com)
+We're a small group of game developers based in the San Francisco Bay Area dedicated to making fun and interesting experiences.
 
 ---
 
-#### Yobonja's Goals
+#### Who are Yobonja?
 
-Yobonja was created to experiment and prototype new and unique game designs.
+- [Angelo Yazar](https://twitter.com/AngeloYazar)
+- [Yekta Yazar](https://twitter.com/YektaYazar)
+- [Tobiah Zarlez](https://twitter.com/tobiahzarlez)
 
 #### Links
 
 - [Twitter](http://twitter.com/Yobonja)
 - [Facebook](http://www.facebook.com/Yobonja)
 - [Tobiah's Blog](http://www.TobiahZ.com)
+- [Yazar Media Group](http://www.yazarmediagroup.com/)
+- [PlayPerro](http://www.playperro.com/)
 
 </div>
 
