@@ -15,13 +15,13 @@ We're a small group of game developers based in the San Francisco Bay Area dedic
 
 - [Angelo Yazar](https://twitter.com/AngeloYazar)
 - [Yekta Yazar](https://twitter.com/YektaYazar)
-- [Avin Zarlez] (https://www.avinzarlez.com)
+- [Avin Zarlez](https://www.avinzarlez.com)
 
 #### Links
 
 - [Twitter](http://twitter.com/Yobonja)
 - [Facebook](http://www.facebook.com/Yobonja)
-- [Avin Zarlez Website] (https://www.avinzarlez.com)
+- [Avin Zarlez Website](https://www.avinzarlez.com)
 - [Yazar Media Group](http://www.yazarmediagroup.com/)
 - [PlayPerro](http://www.playperro.com/)
 
